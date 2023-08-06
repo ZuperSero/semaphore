@@ -1,0 +1,2 @@
+# semaphore
+For Ansible automation.
